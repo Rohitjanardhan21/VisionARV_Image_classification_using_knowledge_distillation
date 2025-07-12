@@ -1,3 +1,4 @@
+since , the datset is too large to be uploaded , the link to the datset is provided here. https://drive.google.com/drive/u/0/folders/1XCOPxzSVdAg6GcX_ssdbTs7mu--zbIf3?lfhs=2
 # Intel Motion Deblurring Project
 
 Real-time video deblurring using knowledge distillation with teacher-student architecture. This project implements motion blur removal for live video streams using a lightweight student model trained through knowledge distillation.
